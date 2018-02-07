@@ -1,2 +1,2 @@
 # Turn-Based-Game
-A turn based game made using Unity
+The scripts for the turn based game I made using Unity
